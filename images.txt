@@ -1,4 +1,4 @@
-zonty/nas-tools:2.9.1
-linuxserver/jackett:0.22.538
-johngong/qbittorrent:4.6.6-4.6.6.10
+#zonty/nas-tools:2.9.1
+#linuxserver/jackett:0.22.538
+#johngong/qbittorrent:4.6.6-4.6.6.10
 infiniflow/ragflow:v0.16.0
