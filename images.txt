@@ -3,4 +3,4 @@
 #johngong/qbittorrent:4.6.6-4.6.6.10
 #infiniflow/ragflow:v0.16.0
 #mayswind/ezbookkeeping:0.7.0
-docker.stirlingpdf.com/stirlingtools/stirling-pdf:0.45.6-fat
+--platform=linux/arm64 docker.stirlingpdf.com/stirlingtools/stirling-pdf:0.45.6-fat
